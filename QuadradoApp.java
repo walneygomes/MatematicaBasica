@@ -26,7 +26,7 @@ public class QuadradoApp {
 
 		
 		
-		System.out.print("Area do quadrado = b*b = " + 5*5);
+		System.out.print("Area do quadrado = b*b = " + teclado*teclado);
 	}
 
 }
